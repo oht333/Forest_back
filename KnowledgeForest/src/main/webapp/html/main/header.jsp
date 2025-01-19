@@ -3,10 +3,10 @@
     <nav class="main-nav-menuwrap">
         <img src="${pageContext.request.contextPath}/asset/img/main/logo.png" class="main-img-logo">
         <ul class="main-nav-ul">
-            <li><a href="./../notice/noticelist.html">공지</a></li>
-            <li><a href="./../board/boardlist.html">자유게시판</a></li>
-            <li><a href="./../study/studylist.html">스터디 모집</a></li>
-            <li><a href="./../login/join.html">회원가입</a></li>
-            <li><a href="./../login/login.html">로그인</a></li>
+            <li><a href="${pageContext.request.contextPath}/notice/noticelist.no">공지</a></li>
+            <li><a href="${pageContext.request.contextPath}/board/boradlist.bo">자유게시판</a></li>
+            <li><a href="${pageContext.request.contextPath}/study/studylist.st">스터디 모집</a></li>
+            <li><a href="${pageContext.request.contextPath}/login/join.me">회원가입</a></li>
+            <li><a href="${pageContext.request.contextPath}/login/login.me">로그인</a></li>
         </ul>
     </nav>

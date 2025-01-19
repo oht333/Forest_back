@@ -15,6 +15,7 @@
 
 
 <body>
+	<!-- 헤더 - 메뉴바 -->
 	<jsp:include page="/html/main/header.jsp" />
 	
 	
@@ -106,7 +107,7 @@
             </div>
         </main>
 
-	<%-- <jsp:include page ="${pageContext.request.contextPath}/html/main/footer.jsp"/> --%>
+	<!-- 푸터 -->
 	<jsp:include page="/html/main/footer.jsp"/>
 	
 
