@@ -1,5 +1,5 @@
 package com.knowledgeForest.controller;
 
-public class BoardController {
+public class StudyFrontController {
 
 }
