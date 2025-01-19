@@ -22,7 +22,7 @@
 	
 	<servlet>
 		<servlet-name>Login</servlet-name>
-		<servlet-class>com.knowledfeForest.controller.LoginFrontController</servlet-class>
+		<servlet-class>com.knowledgeForest.controller.LoginFrontController</servlet-class>
 	</servlet>
 	
 	<servlet>
