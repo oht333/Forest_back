@@ -1,5 +1,5 @@
 package com.knowledgeForest.controller;
 
-public class FrontController {
+public class NoticeFrontController {
 
 }
